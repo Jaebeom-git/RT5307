@@ -1,6 +1,8 @@
+/__pycache__
 /Subjects
 /scripts
 /train_batches
 /val_batches
+/wandb
 *.zip
 *.npy
