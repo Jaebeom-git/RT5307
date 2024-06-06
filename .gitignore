@@ -2,4 +2,4 @@
 /scripts
 /temp_batches
 Subjects.zip
-*.npy
+# *.npy
