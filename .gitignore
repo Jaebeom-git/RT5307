@@ -1,5 +1,6 @@
 /Subjects
 /scripts
-/temp_batches
+/train_batches
+/val_batches
 *.zip
 *.npy
