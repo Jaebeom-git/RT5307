@@ -1,0 +1,16 @@
+# Hyperparameters for model
+config = SimpleNamespace(
+    SAVE_DIR='model_checkpoints',
+    model_depth=8,
+    model_width=32,
+    kernel_size=5,
+    problem_type='Classification',
+    ds=True,
+    ae=False,
+    feature_number=512,
+    is_transconv=True,
+
+    learning_rate=0.00001,
+)
+
+BATCH_SIZE = 4
