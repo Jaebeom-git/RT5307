@@ -15,6 +15,6 @@
         0.6,
         1.2
     ],
-    "SAMPLE_RATE_TARGET": 30,
+    "SAMPLE_RATE_TARGET": 60,
     "MAX_TIME": 50
 }
