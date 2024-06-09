@@ -3,6 +3,8 @@
 /scripts
 /train_batches
 /val_batches
+/train_batches_200Hz
+/val_batches_200Hz
 /wandb
 *.zip
 *.npy

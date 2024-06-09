@@ -1,0 +1,20 @@
+{
+    "SAVE_DIR": "model",
+    "model_depth": 8,
+    "model_width": 32,
+    "kernel_size": 5,
+    "problem_type": "Classification",
+    "ds": true,
+    "ae": false,
+    "feature_number": 512,
+    "is_transconv": true,
+    "learning_rate": 1e-05,
+    "WINDOW_SIZES": [
+        0.1,
+        0.3,
+        0.6,
+        1.2
+    ],
+    "SAMPLE_RATE_TARGET": 200,
+    "MAX_TIME": 50
+}
