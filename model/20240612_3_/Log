@@ -1,0 +1,3 @@
+Training model: 100%|██████████| 20/20 [35:03<00:00, 105.19s/epoch, Loss=0.00000981, Val Loss=0.00000988]
+Finished Training. Best validation loss: 0.00000985
+Avg Loss: 0.61836280, Accuracy: 0.99444975
